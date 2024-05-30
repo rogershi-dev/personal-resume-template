@@ -24,9 +24,9 @@ npm start
 
 # Contributing
 Here are the general guidelines for contributing to the project
-- 1. Fork the repository
-- 2. Create a new branch (`git switch -c feature/your-feature`).
-- 3. Make your changes and stage them (`git add .`).
-- 4. Commit those changes (`git commit -m "Your perferred commit message"`).
-- 5. Push to the branch (`git push origin feature/your-feature`).
-- 6. Create a new Pull Request.
+1. Fork the repository
+2. Create a new branch (`git switch -c feature/your-feature`).
+3. Make your changes and stage them (`git add .`).
+4. Commit those changes (`git commit -m "Your perferred commit message"`).
+5. Push to the branch (`git push origin feature/your-feature`).
+6. Create a new Pull Request.
