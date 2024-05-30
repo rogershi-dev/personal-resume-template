@@ -1,3 +1,6 @@
+# Custom ignored folder
+resulting_resume/
+
 # Logs
 logs
 *.log
