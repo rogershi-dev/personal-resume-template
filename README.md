@@ -22,7 +22,7 @@ npm start
 - Remember, you don't directly send the project to your hiring manager for your job application.Instead, you can print out the current page as PDF using the browser's `Print` functionality.This ensures that the resume details are neatly formatted and easily accessible.
 - One last thing, based on your personal preference, you may choose whether to include `Headers and footers` or `Background graphics` in the resulting PDF.
 
-# Contributing
+# Contribution
 Here are the general guidelines for contributing to the project
 1. Fork the repository
 2. Create a new branch (`git switch -c feature/your-feature`).
